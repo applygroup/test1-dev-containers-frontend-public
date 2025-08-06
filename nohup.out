@@ -1,0 +1,19 @@
+
+> test1@0.0.0 dev
+> vite
+
+11:54:26 AM [vite] (client) Re-optimizing dependencies because lockfile has changed
+
+  VITE v7.0.6  ready in 227 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+
+> test1@0.0.0 dev
+> vite
+
+
+  VITE v7.0.6  ready in 129 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
