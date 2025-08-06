@@ -12,3 +12,4 @@
  - `cd testing123`
  - `cursor .`
  - click "Reopen in container"
+ - muligvis "Rebuild container"
